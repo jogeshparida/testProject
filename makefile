@@ -3,6 +3,7 @@ LDFLAGS = -lGL -lglut -lpng -lz -lm
 HelloTI: hello_ti.o hello_ti_foo.o
     g++ -o HelloTI hello_ti.o hello_ti_foo.o $(LDFLAGS)
 
+
 hello_ti.o: hello_ti.cpp
     g++ -c hello_ti.cpp
 
