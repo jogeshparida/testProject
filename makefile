@@ -11,4 +11,4 @@ hello_ti_foo.o: hello_ti_foo.cpp
 
 .PHONY: clean
 clean:
-	rm -f hello_ti.o hello_ti_foo.o
+	del hello_ti.o hello_ti_foo.o
