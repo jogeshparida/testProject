@@ -4,7 +4,7 @@ void myfoo(void);
 
 void myfoo(void) {
 
-  cout<<"Calling myfoo for TEST!"<<endl;
+  std::cout<<"Calling myfoo for TEST!";
 
   return;
 }
