@@ -12,7 +12,6 @@ int main() {
   # Added for Jenkin build TEST - 02
   # Added for Jenkin build TEST - 03
   # Added for Jenkin build TEST - 03
-  # Added for Jenkin build TEST - 04
   my_foo();
 
   return 0;
