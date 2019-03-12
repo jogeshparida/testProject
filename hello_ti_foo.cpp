@@ -1,7 +1,5 @@
 #include <iostream>
-#include <hello_ti_foo.h>
-
-//void myfoo(void);
+#include "hello_ti_foo.h"
 
 void myfoo(void) {
 
