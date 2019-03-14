@@ -7,7 +7,6 @@ int main() {
   cout<<"Welcone to TI inside MAIN "<<endl;
   // call a function in another file
   myfoo();
-  
-
+  asdf
   return 0;
 }
