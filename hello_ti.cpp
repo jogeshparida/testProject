@@ -6,6 +6,6 @@ using namespace std;
 int main() {
   cout<<"Welcone to TI inside MAIN "<<endl;
   // call a function in another file
-  myfoo()
+  myfoo();
   return 0;
 }
